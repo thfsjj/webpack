@@ -1,0 +1,12 @@
+本地安装
+
+npm init -y
+npm install webpack webpack-cli -D
+npx webpack 运行webpack
+
+##webpack可以进行0配置
+-打包工具--》输出最后的结果
+-打包-支持模块化
+
+##  手动配置webpack
+-默认配置文件的名字 webpack.config,js

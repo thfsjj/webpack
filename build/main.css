@@ -1,0 +1,24 @@
+body{
+    color:green;
+}
+body{
+   
+    background:pink;
+    /* transform: rotate(45deg); */
+    /* -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg); */
+    
+}
+
+body div{
+    width:1300px;
+    height:1200px;
+    background-image: url(img/028951d03cafc4b06963e615d0bb3ce3.jpeg);
+    background-repeat: no-repeat;
+}
+body div {
+  border: 1px solid #ffffff;
+}
+
